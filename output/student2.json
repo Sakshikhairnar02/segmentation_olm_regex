@@ -1,0 +1,9 @@
+{
+    "student": "student2",
+    "answers": {
+        "Q1": "A data structure provides a way of organizing and storing data in computer memory so operations can be performed efficiently. Linear types: • Array: linear collection of identical data types in contiguous memory locations. • Stack: follows LIFO ordering where insert and delete occur at top only. • Queue: follows FIFO ordering where first inserted element leaves first. Non-linear types: - Tree: hierarchical nodes with parent-child links. - Graph: set of vertices connected by edges.",
+        "Q2": "An algorithm is a finite sequence of unambiguous instructions for solving a problem. Key characteristics: i) Input: zero or more external values. ii) Output: at least one result produced. iii) Finiteness: algorithm must terminate after countable steps. iv) Feasibility: operations must be basic and practical.",
+        "Q3": "Complexity analysis calculates the efficiency of algorithms with respect to input size n without hardware dependency. Time complexity: total execution steps required. Space complexity: working memory consumed. Cases: Best case computes lower bound, Average case computes expected operations across uniform distribution, Worst case computes upper bound execution limit.",
+        "Q4": "Array: stores homogeneous data elements in contiguous memory blocks allowing direct O(1) index calculation. Fixed memory allocation at declaration. Linked list: non-contiguous nodes containing payload data and next pointer reference. Dynamically expands or shrinks during program execution."
+    }
+}
