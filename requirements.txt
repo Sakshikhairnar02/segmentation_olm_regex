@@ -1,0 +1,3 @@
+pytest>=8.0.0
+# Database Driver
+pymongo>=4.6.0
