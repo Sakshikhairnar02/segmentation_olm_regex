@@ -1,0 +1,102 @@
+2026-08-25 10:05:31,543 - INFO - Reading student1.txt
+2026-08-25 10:05:31,544 - INFO - Cleaning text
+2026-08-25 10:05:31,546 - INFO - Finding question numbers
+2026-08-25 10:05:31,546 - INFO - Questions found : 6
+2026-08-25 10:05:31,546 - INFO - Generating JSON
+2026-08-25 10:05:31,548 - INFO - Completed
+2026-08-25 10:23:52,695 - INFO - Reading student1.txt
+2026-08-25 10:23:52,697 - INFO - Cleaning text
+2026-08-25 10:23:52,699 - INFO - Finding question numbers
+2026-08-25 10:23:52,699 - INFO - Questions found : 1
+2026-08-25 10:23:52,699 - INFO - Generating JSON
+2026-08-25 10:23:52,701 - INFO - Completed
+2026-08-25 10:29:42,062 - INFO - Reading student1.txt
+2026-08-25 10:29:42,064 - INFO - Cleaning text
+2026-08-25 10:29:42,066 - INFO - Finding question numbers
+2026-08-25 10:29:42,066 - INFO - Questions found : 1
+2026-08-25 10:29:42,066 - INFO - Generating JSON
+2026-08-25 10:29:42,068 - INFO - Completed
+2026-08-25 10:30:09,241 - INFO - Reading student1.txt
+2026-08-25 10:30:09,242 - INFO - Cleaning text
+2026-08-25 10:30:09,243 - INFO - Finding question numbers
+2026-08-25 10:30:09,243 - INFO - Questions found : 1
+2026-08-25 10:30:09,244 - INFO - Generating JSON
+2026-08-25 10:30:09,245 - INFO - Completed
+2026-08-25 10:32:49,715 - INFO - Reading student1.txt
+2026-08-25 10:32:49,717 - INFO - Cleaning text
+2026-08-25 10:32:49,722 - INFO - Finding question numbers
+2026-08-25 10:32:49,723 - INFO - Questions found : 4
+2026-08-25 10:32:49,724 - INFO - Generating JSON
+2026-08-25 10:32:49,727 - INFO - Completed
+2026-08-25 11:56:19,533 - INFO - Reading student1.txt
+2026-08-25 11:56:19,534 - INFO - Cleaning text
+2026-08-25 11:56:19,536 - INFO - Finding question numbers
+2026-08-25 11:56:19,537 - INFO - Questions found : 4
+2026-08-25 11:56:19,537 - INFO - Generating JSON
+2026-08-25 11:56:19,538 - INFO - Completed
+2026-08-25 11:56:19,538 - INFO - Reading student2.txt
+2026-08-25 11:56:19,539 - INFO - Cleaning text
+2026-08-25 11:56:19,539 - INFO - Finding question numbers
+2026-08-25 11:56:19,539 - INFO - Questions found : 4
+2026-08-25 11:56:19,539 - INFO - Generating JSON
+2026-08-25 11:56:19,540 - INFO - Completed
+2026-09-01 23:15:23,454 - INFO - Reading student1.txt
+2026-09-01 23:15:23,466 - INFO - Cleaning text
+2026-09-01 23:15:23,468 - INFO - Finding question numbers
+2026-09-01 23:15:23,468 - INFO - Questions found : 4
+2026-09-01 23:15:23,468 - INFO - Generating JSON
+2026-09-01 23:15:23,470 - INFO - Completed
+2026-09-01 23:15:23,471 - INFO - Reading student2.txt
+2026-09-01 23:15:23,484 - INFO - Cleaning text
+2026-09-01 23:15:23,485 - INFO - Finding question numbers
+2026-09-01 23:15:23,485 - INFO - Questions found : 4
+2026-09-01 23:15:23,485 - INFO - Generating JSON
+2026-09-01 23:15:23,486 - INFO - Completed
+2026-09-02 10:02:06,904 - INFO - Reading student1.txt
+2026-09-02 10:02:06,908 - INFO - Cleaning text
+2026-09-02 10:02:06,910 - INFO - Finding question numbers
+2026-09-02 10:02:06,911 - INFO - Questions found : 4
+2026-09-02 10:02:06,911 - INFO - Generating JSON
+2026-09-02 10:02:06,914 - INFO - Completed
+2026-09-02 10:02:06,915 - INFO - Reading student2.txt
+2026-09-02 10:02:06,919 - INFO - Cleaning text
+2026-09-02 10:02:06,919 - INFO - Finding question numbers
+2026-09-02 10:02:06,920 - INFO - Questions found : 4
+2026-09-02 10:02:06,920 - INFO - Generating JSON
+2026-09-02 10:02:06,921 - INFO - Completed
+2026-09-02 10:08:09,409 - INFO - Reading student1.txt
+2026-09-02 10:08:09,431 - INFO - Cleaning text
+2026-09-02 10:08:09,434 - INFO - Finding question numbers
+2026-09-02 10:08:09,434 - INFO - Questions found : 4
+2026-09-02 10:08:09,434 - INFO - Generating JSON
+2026-09-02 10:08:09,438 - INFO - Completed
+2026-09-02 10:08:09,441 - INFO - Reading student2.txt
+2026-09-02 10:08:09,473 - INFO - Cleaning text
+2026-09-02 10:08:09,479 - INFO - Finding question numbers
+2026-09-02 10:08:09,481 - INFO - Questions found : 4
+2026-09-02 10:08:09,482 - INFO - Generating JSON
+2026-09-02 10:08:09,484 - INFO - Completed
+2026-09-02 10:10:41,021 - INFO - Reading student1.txt
+2026-09-02 10:10:41,023 - INFO - Cleaning text
+2026-09-02 10:10:41,025 - INFO - Finding question numbers
+2026-09-02 10:10:41,025 - INFO - Questions found : 4
+2026-09-02 10:10:41,026 - INFO - Generating JSON
+2026-09-02 10:10:41,027 - INFO - Completed
+2026-09-02 10:10:41,027 - INFO - Reading student2.txt
+2026-09-02 10:10:41,029 - INFO - Cleaning text
+2026-09-02 10:10:41,030 - INFO - Finding question numbers
+2026-09-02 10:10:41,030 - INFO - Questions found : 4
+2026-09-02 10:10:41,030 - INFO - Generating JSON
+2026-09-02 10:10:41,031 - INFO - Completed
+2026-09-02 18:58:43,362 - INFO - Reading student1.txt
+2026-09-02 18:58:43,374 - INFO - Cleaning text
+2026-09-02 18:58:43,375 - INFO - Finding question numbers
+2026-09-02 18:58:43,376 - INFO - Questions found : 4
+2026-09-02 18:58:43,376 - INFO - Generating JSON
+2026-09-02 18:58:43,377 - INFO - Completed
+2026-09-02 18:58:43,378 - INFO - Reading student2.txt
+2026-09-02 18:58:43,390 - INFO - Cleaning text
+2026-09-02 18:58:43,391 - INFO - Finding question numbers
+2026-09-02 18:58:43,391 - INFO - Questions found : 4
+2026-09-02 18:58:43,391 - INFO - Generating JSON
+2026-09-02 18:58:43,393 - INFO - Completed
