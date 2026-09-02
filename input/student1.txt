@@ -1,0 +1,42 @@
+DSA q-s paper
+
+1. A data structure is a storage that is used to store and arrange data. It is a way of arranging data on a computer so that it can be accessed and updated efficiently.
+
+Types of data structures:
+
+i) Linear data structure: Elements are arranged sequentially or linearly, where each element is attached to its previous and next adjacent elements.
+
+• Array - It is a linear data structure and it is a collection of element of same data type stored at contiguous memory locations. • Linked list - Linear data structure in which elements are not stored at contiguous memory locations. Elements are linked using pointers. • Stack - Linear data structure that follows LIFO (last in first out) principle i.e, entering and retrieving data is possible only from only one end. • Queue - Linear data structure that follows FIFO (first in first out) principle i.e the data item stored first will be accessed first.&lt;|im\_
+
+ii) Non linear data structure: Elements are not placed sequentially or linearly are called non-linear data structures.
+
+- Tree: Non-linear and hierarchical data structure where the elements are arranged in a tree-like structure.
+- Graph: Non linear data structure that consists of vertices (or nodes) and edges.
+
+1. An algorithm is a set of finite, well defined steps or instructions designed to solve a problem or perform a computation. It can also be defined as a procedure for solving a mathematical or computational problem in a finite number of steps, often involving repetitive or recursive operations
+
+Characteristics of a good algorithm:
+
+i) Well defined inputs: May take zero or more inputs, which must be clearly specified. ii) Well defined outputs: Must produce atleast one output, clearly defined. iii) Finiteness: Must terminate after a finite number of steps. iv) Effectiveness: Steps should be simple, feasible, feasible, and executable with available resources. v) Deterministic: For the same input, the&lt;|im\_
+
+algorithm should always produce the same output.
+
+v) Language Independent: Algorithms are plain instructions and can be implemented in any programming language, producing the same result.
+
+1. Complexity analysis is defined as a technique to characterise the time taken by an algorithm with respect to input size (independent from the machine, language and compiler). It is used for evaluating the variations of execution time on different algorithms.
+
+Types of complexity:
+
+Time Complexity - The time complexity of an algorithm quantifies the amount of time taken by an algorithm to run as a function of the length of the input. Space Complexity - The amount of memory required by the algorithm to solve given problem is called space complexity of the algorithm.
+
+Types of cases in Analysis:
+
+i. Best time complexity: Define the input for which the algorithm takes less time or&lt;|im\_
+
+minimum time. In the best case calculate the lower bound of an algorithm. ii. Average time complexity: Take all random inputs and calculate the computation time for all inputs, and then we divide it by the total number of inputs. iii. Worst time complexity: Defined the input for which algorithm takes a long time or maximum time. In the worst case, calculate the upper bound of an algorithm.
+
+1. Array - An array is a linear data structure that stores elements of the same data type in contiguous memory locations. Since the memory addresses are sequential, any element can be accessed directly using its index. • Stores elements in contiguous memory locations. • Supports direct access through indexing. • Generally has a fixed size after creation.
+
+Linked list: It is a linear data structure consisting of nodes, where each node contains data and a reference to the next node. Unlike arrays, nodes are not stored in contiguous memory locations. • Elements are stored in separate memory locations.&lt;|im\_
+
+• Each node contains data and a forward reference to the next node. • The size can grow or shrink dynamically.&lt;|im\_
